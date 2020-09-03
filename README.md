@@ -8,7 +8,7 @@ function multiply(a, b){
 }
 ```
 You only need one - Beginner [&#128279;](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
- 
+```javascript 
  (function howManyDalmatians(number) {
 var dogs = ["Hardly any", "More than a handful!", "Woah that's a lot of dogs!", "101 DALMATIANS!!!"];
 var respond = number <= 10 ?
@@ -18,4 +18,4 @@ var respond = number <= 10 ?
             number === 101 ? dogs[3] : dogs[2]
             return respond
             })
-
+```
