@@ -1,4 +1,4 @@
-# Solwed-Task
+# Solved-Task
 ```
 [8ky]
 ```
