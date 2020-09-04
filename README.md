@@ -1,5 +1,15 @@
 # Solved-Task
 ```
+[7ky]
+```
+["Very Even" Numbers.](https://www.codewars.com/kata/58c9322bedb4235468000019/train/javascript)
+```javascript
+function isVeryEvenNumber(n) {
+  return !n-- || n % 9 % 2 === 1;
+}
+```
+
+```
 [8ky]
 ```
 [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
@@ -85,6 +95,6 @@ function reverseWords(str){
   return str.split(" ").reverse().join(" ");
 }
 ```
-
+[]()
 
 
