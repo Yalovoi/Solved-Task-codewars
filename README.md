@@ -34,3 +34,18 @@ function sumArray(array) {
   return !sortedArr || sortedArr.length < 3 ? 0 : sortedArr.slice(1, sortedArr.length-1).reduce((a,b) => a + b, 0);
 }
 ```
+
+[Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/javascript)
+```javascript
+function sumMix(x){
+  return x.map(val => parseInt(val)).reduce((acc, cur) => acc + cur);
+}
+```
+
+
+
+
+
+
+
+
