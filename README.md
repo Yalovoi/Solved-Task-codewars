@@ -326,7 +326,16 @@ return monkey
 }
 ```
 
-
+[What is between?](https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/javascript)
+```
+function between(a, b) {
+  const between = [];
+  for (let i = a; i <= b; i++) {
+    between.push(i);
+  }
+  return between;
+}
+```
 
 
 
