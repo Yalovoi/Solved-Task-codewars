@@ -73,6 +73,23 @@ function dbSort(a){
 }
 ```
 
+[ATM](https://www.codewars.com/kata/5635e7cb49adc7b54500001c/train/javascript)
+```
+function solve(n) {
+   if (n % 10 !== 0 ) return -1;
+  let count = 0;
+  let money = [500, 200, 100, 50, 20, 10];
+  for (let bill of money) {
+    while (n >= bill) {
+      n = n - bill; 
+      count++; 
+    }
+  }
+ return count;
+} 
+```
+
+
 ```
 [8ky]
 ```
