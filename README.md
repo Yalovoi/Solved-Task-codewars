@@ -1,4 +1,4 @@
-# Solved-Task
+# Solved-Tasks-CodeWars
 ```
 [4ky]
 ```
