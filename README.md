@@ -503,6 +503,18 @@ var FilterString = function(value) {
   }
   return +arr.join('');
 }
+
+
+var FilterString = function(value) {
+  let str = '';
+  for (i = 0; i < value.length; i++){
+    if (!isNaN(value[i])){
+      str += value[i]; 
+    }
+  }
+  return +str;
+}
+
 ```
 
 
