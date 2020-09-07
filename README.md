@@ -523,6 +523,11 @@ var FilterString = function(value) {
 function SafeInteger(n) {
   return Number.isSafeInteger(n)
 }
+
+function SafeInteger(n) {
+  return !!(Number.isSafeInteger(n));
+}
+
 ```
 
 
