@@ -493,6 +493,35 @@ const isReallyNaN = (val) => {
 const isReallyNaN = Number.isNaN
 ```
 
+[Filter the number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript)
+```
+var FilterString = function(value) {
+  let str = value.split("");
+  let arr = [];
+  for(let i = 0; i < str.length; i++){
+    if(isNaN(str[i]) == false){arr.push(str[i]);}
+  }
+  return +arr.join('');
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
