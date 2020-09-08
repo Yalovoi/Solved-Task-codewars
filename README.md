@@ -46,6 +46,24 @@ function dblLinear(n) {
 ```
 [6ky]
 ```
+[Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/train/javascript)
+```
+function comp(array1, array2){
+  if (!array1 || !array2) {
+    return false;
+  } else {
+    array1 = array1.map(a => { return a*a }).sort((a,b) => { return b-a }); 
+    array2 = array2.sort((a,b) => { return b-a });
+    for (let i = 0; i < array1.length; i++) {
+      if (array2[i] !== array1[i]) {
+         return false;
+      }
+    }
+    return true;
+  }
+}
+```
+
 [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/javascript)
 ```
 function validBraces(braces) {
