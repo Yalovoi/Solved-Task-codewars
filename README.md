@@ -60,6 +60,21 @@ function validBraces(braces) {
 ```
 [7ky]
 ```
+[Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)
+```
+function maskify(cc) {
+let maskCard = '';
+for (let i = 0; i <= cc.length-1; i++) {
+  if (i <= cc.length-5) {
+    maskCard = maskCard + '#';
+  } else {
+    maskCard = maskCard + cc[i];
+  }
+}
+  return maskCard;
+}
+```
+
 ["Very Even" Numbers.](https://www.codewars.com/kata/58c9322bedb4235468000019/train/javascript)
 ```javascript
 function isVeryEvenNumber(n) {
