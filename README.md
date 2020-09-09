@@ -488,7 +488,7 @@ function sumArray(array) {
 }
 ```
 
-[noobCode 01: SUPERSIZE ME.... or rather, this integer!][(https://www.codewars.com/kata/5709bdd2f088096786000008/train/javascript)
+[noobCode 01: SUPERSIZE ME.... or rather, this integer!](https://www.codewars.com/kata/5709bdd2f088096786000008/train/javascript)
 ```
 function superSize(num){
   return +String(num).split("").sort((a, b) => b - a).join("");
@@ -586,8 +586,13 @@ function unusualFive() {
 }
 ```
 
-
-
+[A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript)
+```
+function findNeedle(haystack) {
+    var index = haystack.indexOf('needle');
+    return "found the needle at position " + index;
+  }
+  ```
 
 
 
