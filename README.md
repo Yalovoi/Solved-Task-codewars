@@ -46,6 +46,19 @@ function dblLinear(n) {
 ```
 [6ky]
 ```
+[Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript)
+```
+var uniqueInOrder=function(iterable){
+  let newStr = []
+  for(let i = 0;i < iterable.length;i++){
+     if(iterable[i]!==iterable[i+1]){
+      newStr.push(iterable[i])
+    }
+  }
+  return newStr
+}
+```
+
 [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
 ```
 function arrayDiff(a, b) {
