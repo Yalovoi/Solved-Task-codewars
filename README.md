@@ -577,11 +577,14 @@ function SafeInteger(n) {
 function SafeInteger(n) {
   return !!(Number.isSafeInteger(n));
 }
-
 ```
 
-
-
+[5 without numbers !!](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)
+```
+function unusualFive() {
+  return "fiver".length;
+}
+```
 
 
 
