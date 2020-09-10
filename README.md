@@ -653,5 +653,13 @@ function sixToast(num) {
   return num >= 6 ? num - 6 : num;
 }
 
+function sixToast(num) {
+  if (num < 6){
+  return 6 - num
+  } else 
+  return num -6; 
+}
+
+
 ```
 
