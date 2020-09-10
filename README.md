@@ -659,7 +659,32 @@ function sixToast(num) {
   } else 
   return num -6; 
 }
-
-
 ```
+
+[Closest elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a/train/javascript)
+```
+function elevator(left, right, call){
+let a = Math.abs(call - left)
+let b = Math.abs(call - right)
+if(b <= a){return 'right'
+     }else{return 'left'}
+  }
+  
+```  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
