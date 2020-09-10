@@ -696,7 +696,7 @@ if(x**2>1000){return'It\'s hotter than the sun!!';
 function grow(x){
   return x.reduce((a, b) => a * b);
 }
-```ruby
+``` Ruby
 def grow(x)
   x.map.reduce(:*)
 end
