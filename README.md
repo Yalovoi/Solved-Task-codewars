@@ -716,5 +716,5 @@ function arrayPlusArray(arr1, arr2) {
 function paperwork(n, m) {
   return n + m <= 0 ? 0 : n * m;
 }
-
+```
 
