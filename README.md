@@ -110,7 +110,15 @@ function validBraces(braces) {
 ```
 [](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/javascript)
 ```
-
+function squares(x, n) {
+  var ret = [];
+  for(var i=0; i<n; i++){
+    ret.push(x);
+    x*= x;
+  }
+  return ret;
+}
+```
 
 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/solutions/javascript)
 ```
