@@ -195,6 +195,18 @@ function solve(n) {
 ```
 [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/train/javascript)
 ```
+function index(array, n){
+   if (array[n] == undefined) { 
+    return -1;
+  }  else {
+    return Math.pow(array[n], n);
+  }
+}
+
+function index(array, n){
+  return array[n] ** n || -1;
+}
+```
 
 
 [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
