@@ -111,12 +111,12 @@ function validBraces(braces) {
 [Squares sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/javascript)
 ```
 function squares(x, n) {
-  var ret = [];
-  for(var i=0; i<n; i++){
-    ret.push(x);
-    x*= x;
-  }
-  return ret;
+let arr = []
+for(let i = 0; i < n;i++){
+  arr.push(x)
+  x = x * x
+}
+return arr
 }
 ```
 
