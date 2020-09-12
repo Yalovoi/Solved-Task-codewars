@@ -108,6 +108,17 @@ function validBraces(braces) {
 ```
 [7ky]
 ```
+[Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c/train/javascript)
+```function absentVowel(x){
+    const vowels = ["a", "e", "i", "o", "u"];
+    for (let i = 0; i < vowels.length; i++) {
+      if (!x.includes(vowels[i])) {
+        return i;
+      }
+    }
+  }
+  ```
+
 [Dominant array elements](https://www.codewars.com/kata/5a04133e32b8b998dc000089/train/javascript)
 ```
 function solve(arr){
