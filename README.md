@@ -108,6 +108,10 @@ function validBraces(braces) {
 ```
 [7ky]
 ```
+[Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/solutions/javascript)
+```
+
+
 [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)
 ```
 function maskify(cc) {
