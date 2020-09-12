@@ -118,7 +118,7 @@ let a = (num + '').split('');
   }
   return +res1.join('');
 }
-
+```
 
 [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)
 ```
