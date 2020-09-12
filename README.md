@@ -193,6 +193,10 @@ function solve(n) {
 ```
 [8ky]
 ```
+[N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/train/javascript)
+```
+
+
 [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
 ```javascript
 function multiply(a, b){
