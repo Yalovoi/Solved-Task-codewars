@@ -108,6 +108,8 @@ function validBraces(braces) {
 ```
 [7ky]
 ```
+[Dominant array elements](https://www.codewars.com/kata/5a04133e32b8b998dc000089/train/javascript)
+
 [Squares sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/javascript)
 ```
 function squares(x, n) {
