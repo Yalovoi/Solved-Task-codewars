@@ -109,6 +109,15 @@ function validBraces(braces) {
 [7ky]
 ```
 [Dominant array elements](https://www.codewars.com/kata/5a04133e32b8b998dc000089/train/javascript)
+```
+function solve(arr){
+  let array = [arr[arr.length - 1]];
+  for (let i = arr.length - 2; i >= 0; i--){
+    if (arr[i] > array[0]) array.unshift(arr[i]);
+  }
+  return array;
+}
+```
 
 [Squares sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/javascript)
 ```
