@@ -108,6 +108,7 @@ function validBraces(braces) {
 ```
 [7ky]
 ```
+[](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/javascript)
 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/solutions/javascript)
 ```
 function squareDigits(num) {
