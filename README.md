@@ -114,7 +114,10 @@ var isSquare = function(n){
    return Math.sqrt(n) % 1 === 0 ? true : false;
 }
 
-
+var isSquare = function(n){
+   return Math.sqrt(n) % 1 === 0 
+}
+```
 
 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c/train/javascript)
 ```function absentVowel(x){
