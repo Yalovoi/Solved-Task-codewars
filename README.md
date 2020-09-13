@@ -232,6 +232,13 @@ function solve(n) {
 ```
 [8ky]
 ```
+[Training JS #34: methods of Math---pow() sqrt() and cbrt()](https://www.codewars.com/kata/5733f948d780e27df6000e33/train/javascript)
+```
+function cutCube(volume,n){
+return Math.cbrt(volume / n) % 1 === 0 && Math.cbrt(n) % 1 === 0 ? true : false; 
+  }
+  ```
+  
 [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/train/javascript)
 ```
 function index(array, n){
