@@ -104,10 +104,16 @@ function validBraces(braces) {
 }
 ```
 
-
 ```
 [7ky]
 ```
+[Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript)
+```
+function findNextSquare(sq) {
+  return Math.sqrt(sq)%1? -1 : Math.pow(Math.sqrt(sq)+1,2);
+}
+```
+
 [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)
 ```
 var isSquare = function(n){
