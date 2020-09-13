@@ -108,6 +108,10 @@ function validBraces(braces) {
 ```
 [7ky]
 ```
+[You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)
+```
+
+
 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c/train/javascript)
 ```function absentVowel(x){
     const vowels = ["a", "e", "i", "o", "u"];
