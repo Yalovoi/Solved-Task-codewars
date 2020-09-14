@@ -235,6 +235,19 @@ function solve(n) {
 [8ky]
 ```
 
+
+[Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/javascript)
+```
+function correct(string){
+	const correction = {
+    "5": "S",
+    "0": "O",
+    "1": "I"
+  }
+  return string.split("").map(x => x = correction[x] !== undefined ? correction[x] : x).join(""); 
+}
+```
+
 [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript)
 ```
 var stringToNumber = function(str){ 
