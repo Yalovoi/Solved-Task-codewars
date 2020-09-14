@@ -232,6 +232,21 @@ function solve(n) {
 ```
 [8ky]
 ```
+[Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript)
+```
+var humanYearsCatYearsDogYears = function(humanYears) {
+  // Your code here!
+  const catYears = humanYears === 1 ? 15 :
+                   humanYears === 2 ? 15 + 9 :
+                   15 + 9 + ((humanYears - 2) * 4);
+  
+  const dogYears = humanYears === 1 ? 15 :
+                   humanYears === 2 ? 15 + 9 :
+                   15 + 9 + ((humanYears - 2) * 5);
+  
+  return [humanYears,catYears,dogYears];
+}
+```
 [Bin to Decimal](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/train/javascript)
 ```
 function binToDec(bin){
