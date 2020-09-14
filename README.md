@@ -46,6 +46,7 @@ function dblLinear(n) {
 ```
 [6ky]
 ```
+
 [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript)
 ```
 var uniqueInOrder=function(iterable){
@@ -107,6 +108,7 @@ function validBraces(braces) {
 ```
 [7ky]
 ```
+
 [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript)
 ```
 function findNextSquare(sq) {
@@ -232,6 +234,14 @@ function solve(n) {
 ```
 [8ky]
 ```
+
+[Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript)
+```
+function numberToString(num) {
+ return String(num);
+}
+```
+
 [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/javascript)
 ```
 function checkExam(array1, array2) {
