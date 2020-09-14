@@ -232,6 +232,19 @@ function solve(n) {
 ```
 [8ky]
 ```
+[Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/javascript)
+```
+function checkExam(array1, array2) {
+ let sum = 0;
+ for (let i = 0; i < array1.length; i++) {
+   if (array2[i] !== "") {
+     sum = sum += array1[i] === array2[i] ? 4 : -1;
+   }
+ }
+ return sum > 0 ? sum : 0;
+}
+```
+
 [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)
 ```
 function century(year) {
