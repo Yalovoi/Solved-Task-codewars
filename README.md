@@ -232,6 +232,13 @@ function solve(n) {
 ```
 [8ky]
 ```
+[Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)
+```
+function century(year) {
+ return Math.floor(year/100) + (year % 100 === 0 ? 0 : 1);
+}
+```
+
 [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript)
 ```
 var humanYearsCatYearsDogYears = function(humanYears) {
