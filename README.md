@@ -235,6 +235,13 @@ function solve(n) {
 [8ky]
 ```
 
+[Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript)
+```
+var stringToNumber = function(str){ 
+  return Number(str);
+}
+```
+
 [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript)
 ```
 function numberToString(num) {
