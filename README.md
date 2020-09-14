@@ -232,6 +232,13 @@ function solve(n) {
 ```
 [8ky]
 ```
+[Bin to Decimal](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/train/javascript)
+```
+function binToDec(bin){
+  return parseInt(bin, 2);
+}
+```
+
 [Training JS #34: methods of Math---pow() sqrt() and cbrt()](https://www.codewars.com/kata/5733f948d780e27df6000e33/train/javascript)
 ```
 function cutCube(volume,n){
@@ -374,65 +381,6 @@ function tripleTrouble(one, two, three){
  }
  ```
 
-[Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript)
-```javascript
-function greet(language) {
-  var r = [
-'Vitejte',
-'Velkomst',
-'Welkom',
-'Tere tulemast',
-'Tervetuloa',
-'Welgekomen',
-'Bienvenue',
-'Willkommen',
-'Failte',
-'Benvenuto',
-'Gaidits',
-'Laukiamas',
-'Witamy',
-'Bienvenido',
-'Valkommen',
-'Croeso'];
-  switch (language){
-      case "czech":
-          return r[0]
-      case "danish":
-          return r[1]
-      case "dutch":
-          return r[2]
-      case "estonian":
-          return r[3]
-      case "finnish":
-          return r[4]
-      case "flemish":
-          return r[5]
-      case "french":
-          return r[6]
-      case "german":
-          return r[7]
-      case "irish":
-          return r[8]
-      case "italian":
-          return r[9]
-      case "latvian":
-          return r[10]
-      case "lithuanian":
-          return r[11]
-      case "polish":
-          return r[12]
-      case "spanish":
-          return r[13]
-      case "swedish":
-          return r[14]
-      case "welsh":
-          return r[15]
-      default:
-          return 'Welcome'
-  
-  }
-}
-```
 
 [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript)
 ```javascript
