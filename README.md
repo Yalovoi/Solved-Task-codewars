@@ -235,6 +235,9 @@ function solve(n) {
 [8ky]
 ```
 
+[Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript)
+```
+
 
 [All Star Code Challenge #22](https://www.codewars.com/kata/5865cff66b5699883f0001aa/train/javascript)
 ```
