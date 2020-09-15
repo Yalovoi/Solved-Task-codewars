@@ -235,6 +235,11 @@ function solve(n) {
 [8ky]
 ```
 
+
+[Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript)
+```
+
+
 [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96/train/javascript)
 ```
 function bonusTime(salary, bonus) {
