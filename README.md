@@ -235,6 +235,9 @@ function solve(n) {
 [8ky]
 ```
 
+[](https://www.codewars.com/kata/56f6ad906b88de513f000d96/train/javascript)
+
+
 [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript)
 ```
 function countBy(x, n) {
