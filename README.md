@@ -238,7 +238,16 @@ function solve(n) {
 
 [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/train/javascript)
 ```
-
+function replace(s){
+  const array = s.split("");
+  for (let i = 0; i < array.length; i++){
+    if ((/[aeiou]/i).test(array[i])){
+      array[i] = "!";
+    }
+  }
+  return array.join("");
+}
+```
 
 [Exclamation marks series #2: Remove all exclamation marks from the end of sentence](https://www.codewars.com/kata/57faece99610ced690000165/train/javascript)
 ```
