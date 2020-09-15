@@ -237,7 +237,16 @@ function solve(n) {
 
 [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript)
 ```
-
+function countBy(x, n) {
+  let z = [];
+  while (z.length < n) {
+    for (let i = x; i <= (x * n); ++i) {
+      i % x === 0 && z.push(i);
+    }
+  }
+  return z;
+}
+```
 
 [All Star Code Challenge #22](https://www.codewars.com/kata/5865cff66b5699883f0001aa/train/javascript)
 ```
