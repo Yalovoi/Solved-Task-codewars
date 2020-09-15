@@ -236,6 +236,10 @@ function solve(n) {
 ```
 
 
+[Exclamation marks series #2: Remove all exclamation marks from the end of sentence](https://www.codewars.com/kata/57faece99610ced690000165/train/javascript)
+```
+
+
 [Exclamation marks series #1: Remove a exclamation mark from the end of string](https://www.codewars.com/kata/57fae964d80daa229d000126/train/javascript)
 ```
 function remove(s){
