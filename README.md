@@ -236,6 +236,8 @@ function solve(n) {
 ```
 
 
+[Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)
+```
 [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript)
 ```
 function gooseFilter (birds){
