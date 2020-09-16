@@ -237,6 +237,11 @@ function solve(n) {
 
 
 [Expressions Matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/javascript)
+```
+function expressionMatter(a, b, c){
+  return Math.max(a * (b + c), a * b * c, (a + b) * c, a + b + c)
+}
+```
 
 
 [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/train/javascript)
