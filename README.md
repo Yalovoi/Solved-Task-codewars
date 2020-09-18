@@ -43,6 +43,8 @@ function dblLinear(n) {
   return sequence[n];
 }
 ```
+
+
 ```
 [6ky]
 ```
@@ -50,7 +52,18 @@ function dblLinear(n) {
 
 [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/javascript)
 ```
-
+function cleanString(s) {
+  let arr = []
+  for (let el of s) {
+    if (el === "#") {
+      arr.pop()
+    } else {
+      arr.push(el)
+    }
+  }
+  return arr.join("")
+}
+```
 
 [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript)
 ```
