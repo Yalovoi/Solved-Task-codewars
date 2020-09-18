@@ -770,7 +770,7 @@ var FilterString = function(value) {
 }
 
 
-var FilterString = function(value) {
+let FilterString = function(value) {
   let str = '';
   for (i = 0; i < value.length; i++){
     if (!isNaN(value[i])){
