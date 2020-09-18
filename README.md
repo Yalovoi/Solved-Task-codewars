@@ -379,7 +379,6 @@ function century(year) {
 [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript)
 ```
 let humanYearsCatYearsDogYears = function(humanYears) {
-  // Your code here!
   const catYears = humanYears === 1 ? 15 :
                    humanYears === 2 ? 15 + 9 :
                    15 + 9 + ((humanYears - 2) * 4);
