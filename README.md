@@ -266,6 +266,13 @@ function solve(n) {
 ```
 
 
+[Coefficients of the Quadratic Equation](https://www.codewars.com/kata/5d59576768ba810001f1f8d6/train/javascript)
+```
+function quadratic(x1, x2){
+return[1, -x1-x2, x1*x2]
+}
+```
+
 [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)
 ```
 let min = function(list){
