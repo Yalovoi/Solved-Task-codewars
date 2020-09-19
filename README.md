@@ -508,7 +508,7 @@ function squareSum(numbers){
 ```
 
 [SpeedCode #2 - Array Madness](https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1/train/javascript)
-```java
+```
 function arrayMadness(a, b) {
   let square = a.reduce((a, b) => a + b**2, 0)
   let cube = b.reduce((a, b) => a + b**3, 0)
