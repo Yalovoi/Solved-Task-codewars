@@ -131,12 +131,12 @@ function validBraces(braces) {
 [Array Mash](https://www.codewars.com/kata/582642b1083e12521f0000da/train/javascript)
 ```
 function arrayMash (array1, array2) {
-   let newArr = [];
-   for(let i=0; i<array1.length; i++) {
-     newArr.push(array1[i], array2[i]);
-    }
-    return newArr;
-};
+let newArr = []
+for(let i = 0;i < array1.length;i++){
+  newArr.push(array1[i],array2[i])
+}
+  return newArr
+}
 ```
 
 [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript)
