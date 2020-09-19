@@ -487,7 +487,7 @@ function sumMix(x){
 ```
 
 [Squash the bugs](https://www.codewars.com/kata/56f173a35b91399a05000cb7/train/javascript)
-```java
+```
 function findLongest(str) {
   const spl = str.split(" ");
   let longest = 0
