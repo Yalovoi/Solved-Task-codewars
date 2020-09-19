@@ -266,6 +266,17 @@ function solve(n) {
 ```
 
 
+[Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/solutions/javascript)
+```
+let min = function(list){
+    return Math.min(...list);
+}
+
+let max = function(list){
+    return Math.max(...list);
+}
+```
+
 [Coefficients of the Quadratic Equation](https://www.codewars.com/kata/5d59576768ba810001f1f8d6/train/javascript)
 ```
 function quadratic(x1, x2){
