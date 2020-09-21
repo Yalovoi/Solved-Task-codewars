@@ -267,7 +267,16 @@ function solve(n) {
 
 [Pre-FizzBuzz Workout #1](https://www.codewars.com/kata/569e09850a8e371ab200000b/train/javascript)
 ```
-
+function preFizz(n) {
+  let arr = []
+  for(let i = 1;i <= n;i++){
+   if(n > 0){
+     arr.push(i)
+    }
+  }
+  return arr
+}
+```
 
 
 [Array Mash](https://www.codewars.com/kata/582642b1083e12521f0000da/solutions/javascript)
