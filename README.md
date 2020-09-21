@@ -141,6 +141,10 @@ function validBraces(braces) {
 ```
 
 
+[Formatting decimal places #1](https://www.codewars.com/kata/5641c3f809bf31f008000042/train/javascript)
+```
+
+
 [Array Mash](https://www.codewars.com/kata/582642b1083e12521f0000da/train/javascript)
 ```
 function arrayMash (array1, array2) {
