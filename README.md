@@ -265,6 +265,8 @@ function solve(n) {
 [8ky]
 ```
 
+[Array Mash](https://www.codewars.com/kata/582642b1083e12521f0000da/solutions/javascript)
+```
 
 [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/solutions/javascript)
 ```
