@@ -265,6 +265,11 @@ function solve(n) {
 [8ky]
 ```
 
+[Pre-FizzBuzz Workout #1](https://www.codewars.com/kata/569e09850a8e371ab200000b/train/javascript)
+```
+
+
+
 [Array Mash](https://www.codewars.com/kata/582642b1083e12521f0000da/solutions/javascript)
 ```
 function arrayMash (array1, array2) {
