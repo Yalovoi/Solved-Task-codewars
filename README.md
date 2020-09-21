@@ -267,6 +267,14 @@ function solve(n) {
 
 [Array Mash](https://www.codewars.com/kata/582642b1083e12521f0000da/solutions/javascript)
 ```
+function arrayMash (array1, array2) {
+let newArr = []
+for(let i = 0;i < array1.length;i++){
+  newArr.push(array1[i],array2[i])
+}
+  return newArr
+}
+
 
 [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/solutions/javascript)
 ```
