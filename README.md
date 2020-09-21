@@ -50,6 +50,9 @@ function dblLinear(n) {
 ```
 
 
+[Tortoise racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c/train/javascript)
+```
+
 [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/javascript)
 ```
 function cleanString(s) {
