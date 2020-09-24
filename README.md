@@ -141,6 +141,11 @@ function validBraces(braces) {
 [7ky]
 ```
 
+
+[Minimum to multiple](https://www.codewars.com/kata/5e030f77cec18900322c535d/train/javascript)
+```
+
+
 [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/javascript)
 ```
 function minMax(arr){
