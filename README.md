@@ -141,6 +141,9 @@ function validBraces(braces) {
 [7ky]
 ```
 
+[The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/javascript)
+
+
 
 [Formatting decimal places #1](https://www.codewars.com/kata/5641c3f809bf31f008000042/train/javascript)
 ```
