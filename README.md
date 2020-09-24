@@ -144,7 +144,10 @@ function validBraces(braces) {
 
 [Minimum to multiple](https://www.codewars.com/kata/5e030f77cec18900322c535d/train/javascript)
 ```
-
+function minimum(a, x) {
+  return Math.min(a % x, x - a % x)
+}
+```
 
 [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/javascript)
 ```
