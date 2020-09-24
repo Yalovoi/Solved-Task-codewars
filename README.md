@@ -142,7 +142,11 @@ function validBraces(braces) {
 ```
 
 [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/javascript)
-
+```
+function minMax(arr){
+  return [Math.min(...arr),Math.max(...arr)]
+}
+```
 
 
 [Formatting decimal places #1](https://www.codewars.com/kata/5641c3f809bf31f008000042/train/javascript)
