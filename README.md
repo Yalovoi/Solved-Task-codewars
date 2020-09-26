@@ -5,7 +5,7 @@ JavaScript
 ```
 [Twice linear](https://www.codewars.com/kata/twice-linear/train/javascript)
 ```
-javascript
+java
 function dblLinear(n) {
   // a place to store the sequence
   const sequence = [1]; // start the sequence with 1
