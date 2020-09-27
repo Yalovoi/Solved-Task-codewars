@@ -303,6 +303,11 @@ function solve(n) {
 ```
 
 
+
+[Is it a number?](https://www.codewars.com/kata/57126304cdbf63c6770012bd/train/javascript)
+```
+
+
 [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5/train/javascript)
 ```
 function correctTail(bod, tail) {
