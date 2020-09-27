@@ -305,6 +305,10 @@ function solve(n) {
 
 [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5/train/javascript)
 ```
+function correctTail(bod, tail) {
+  return bod[bod.length-1] === tail
+}
+```
 
 [Pre-FizzBuzz Workout #1](https://www.codewars.com/kata/569e09850a8e371ab200000b/train/javascript)
 ```
