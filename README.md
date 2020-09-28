@@ -304,6 +304,13 @@ function solve(n) {
 
 
 
+[
+A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future"](https://www.codewars.com/kata/562e98755e9214cd2500003d/train/javascript)
+```
+
+
+
+
 [Is it a number?](https://www.codewars.com/kata/57126304cdbf63c6770012bd/train/javascript)
 ```
 function isDigit(s) {
