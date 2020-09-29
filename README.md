@@ -142,6 +142,9 @@ function validBraces(braces) {
 ```
 
 
+[Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139/train/javascript)
+```
+
 [Minimum to multiple](https://www.codewars.com/kata/5e030f77cec18900322c535d/train/javascript)
 ```
 function minimum(a, x) {
