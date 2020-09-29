@@ -147,6 +147,7 @@ function validBraces(braces) {
 function addBinary(a,b) {
  return (a + b).toString(2)
 }
+```
 
 [Minimum to multiple](https://www.codewars.com/kata/5e030f77cec18900322c535d/train/javascript)
 ```
