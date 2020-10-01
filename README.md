@@ -144,6 +144,16 @@ function validBraces(braces) {
 
 [254 shades of grey](https://www.codewars.com/kata/54d22119beeaaaf663000024/train/javascript)
 ```
+const numberToHexadecimal = number => number.toString(16).padStart(2, '0')
+const shadesOfGrey = n => {
+  if (n < 0) return []
+const max = Math.min(n, 254)
+return Array.from({ length: max }, (_, index) => {
+    const hexadecimal = numberToHexadecimal(index + 1)
+    return `#${hexadecimal}${hexadecimal}${hexadecimal}`
+  })
+}
+```
 
 [80's Kids #2: Help ALF Find His Spaceship](https://www.codewars.com/kata/5660aa3d5e011dfd6e000063/train/javascript)
 ```
