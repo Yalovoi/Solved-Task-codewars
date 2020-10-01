@@ -141,6 +141,10 @@ function validBraces(braces) {
 [7ky]
 ```
 
+
+[254 shades of grey](https://www.codewars.com/kata/54d22119beeaaaf663000024/train/javascript)
+```
+
 [80's Kids #2: Help ALF Find His Spaceship](https://www.codewars.com/kata/5660aa3d5e011dfd6e000063/train/javascript)
 ```
 const findSpaceship = (map = '') => {
