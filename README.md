@@ -141,7 +141,8 @@ function validBraces(braces) {
 [7ky]
 ```
 
-[](https://www.codewars.com/kata/5660aa3d5e011dfd6e000063/train/javascript)
+[80's Kids #2: Help ALF Find His Spaceship](https://www.codewars.com/kata/5660aa3d5e011dfd6e000063/train/javascript)
+```
 
 
 
