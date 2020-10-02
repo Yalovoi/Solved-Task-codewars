@@ -151,7 +151,7 @@ function multiples(s1,s2,s3){
   }  
   return arr;  
 }
-
+```
 
 
 [254 shades of grey](https://www.codewars.com/kata/54d22119beeaaaf663000024/train/javascript)
