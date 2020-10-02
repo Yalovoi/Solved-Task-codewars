@@ -141,6 +141,10 @@ function validBraces(braces) {
 [7ky]
 ```
 
+[Show multiples of 2 numbers within a range](https://www.codewars.com/kata/583989556754d6f4c700018e/train/javascript)
+
+
+
 
 [254 shades of grey](https://www.codewars.com/kata/54d22119beeaaaf663000024/train/javascript)
 ```
