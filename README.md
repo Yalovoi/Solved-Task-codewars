@@ -357,6 +357,13 @@ function solve(n) {
 ```
 
 
+[Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript)
+```
+function digitize(n){
+ return  (n + '').split('').reverse().map(el => +el) 
+}
+```
+
 [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55/train/javascript)
 ``
 function fixTheMeerkat(arr) {
