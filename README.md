@@ -142,6 +142,19 @@ function validBraces(braces) {
 [7ky]
 ```
 
+[The Skiponacci Sequence](https://www.codewars.com/kata/580777ee2e14accd9f000165/train/javascript)
+```
+function skiponacci(n) {
+  if(n === 1)return '1'
+let fib = [1,1];
+  for(let i  = 2;i < n;i++){
+    fib.push(fib[i - 1]+ fib[i-2])
+  }
+ return  fib.map((el,i) => i % 2 !== 0?'skip':el).join(' ')                 
+}
+```
+
+
 [Show multiples of 2 numbers within a range](https://www.codewars.com/kata/583989556754d6f4c700018e/train/javascript)
 ```
 function multiples(s1,s2,s3){
