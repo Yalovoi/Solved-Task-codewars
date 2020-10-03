@@ -357,6 +357,12 @@ function solve(n) {
 ```
 
 
+[My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55/train/javascript)
+``
+function fixTheMeerkat(arr) {
+ return arr.reverse()
+}
+```
 
 [A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future"](https://www.codewars.com/kata/562e98755e9214cd2500003d/train/javascript)
 ```
