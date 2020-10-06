@@ -373,6 +373,14 @@ function solve(n) {
 
 [Filling an array (part 1)](https://www.codewars.com/kata/571d42206414b103dc0006a1/train/javascript)
 ```
+function arr (N){
+ let newArr = []
+ for(let i = 0; i < N;i++){
+   newArr.push(i)
+ }
+  return newArr
+} 
+```
 
 
 [Parse float](https://www.codewars.com/kata/57a386117cb1f31890000039/train/javascript)
