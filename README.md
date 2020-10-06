@@ -373,6 +373,13 @@ function solve(n) {
 
 [Parse float](https://www.codewars.com/kata/57a386117cb1f31890000039/train/javascript)
 ```
+function parseF(s) {
+  if(s == parseFloat(s)){
+    return Number.parseFloat(s)
+    }else{
+      return null
+    }                    
+  }
 
 
 
