@@ -371,6 +371,10 @@ function solve(n) {
 
 
 
+[Filling an array (part 1)](https://www.codewars.com/kata/571d42206414b103dc0006a1/train/javascript)
+```
+
+
 [Parse float](https://www.codewars.com/kata/57a386117cb1f31890000039/train/javascript)
 ```
 function parseF(s) {
