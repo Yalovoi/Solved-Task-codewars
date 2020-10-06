@@ -381,11 +381,13 @@ function parseF(s) {
     }                    
   }
 
+2 Variant
 
 function parseF(s){
   return isNaN(parseFloat(s)) ? null : parseFloat(s);
 }
 
+3 Variant
 
 let parseF = s => isNaN(parseFloat(s)) ? null : parseFloat(s)
 ```
