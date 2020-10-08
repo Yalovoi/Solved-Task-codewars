@@ -142,6 +142,10 @@ function validBraces(braces) {
 [7ky]
 ```
 
+[Series of integers from m to n](https://www.codewars.com/kata/5841f680c5c9b092950001ae/train/javascript)
+```
+
+
 [The Skiponacci Sequence](https://www.codewars.com/kata/580777ee2e14accd9f000165/train/javascript)
 ```
 function skiponacci(n) {
