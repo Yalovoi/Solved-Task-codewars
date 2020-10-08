@@ -193,6 +193,7 @@ return Array.from({ length: max }, (_, index) => {
 }
 ```
 
+
 [80's Kids #2: Help ALF Find His Spaceship](https://www.codewars.com/kata/5660aa3d5e011dfd6e000063/train/javascript)
 ```
 const findSpaceship = (map = '') => {
@@ -221,12 +222,14 @@ const addBinary = (a, b) => (a + b).toString(2);
 
 ```
 
+
 [Minimum to multiple](https://www.codewars.com/kata/5e030f77cec18900322c535d/train/javascript)
 ```
 function minimum(a, x) {
   return Math.min(a % x, x - a % x)
 }
 ```
+
 
 [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063/train/javascript)
 ```
@@ -243,6 +246,7 @@ function twoDecimalPlaces(number) {
 }
 ```
 
+
 [Array Mash](https://www.codewars.com/kata/582642b1083e12521f0000da/train/javascript)
 ```
 function arrayMash (array1, array2) {
@@ -254,12 +258,14 @@ for(let i = 0;i < array1.length;i++){
 }
 ```
 
+
 [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript)
 ```
 function findNextSquare(sq) {
   return Math.sqrt(sq)%1? -1 : Math.pow(Math.sqrt(sq)+1,2);
 }
 ```
+
 
 [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)
 ```
@@ -271,6 +277,7 @@ let isSquare = function(n){
    return Math.sqrt(n) % 1 === 0 
 }
 ```
+
 
 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c/train/javascript)
 ```
@@ -284,6 +291,7 @@ function absentVowel(x){
   }
   ```
 
+
 [Dominant array elements](https://www.codewars.com/kata/5a04133e32b8b998dc000089/train/javascript)
 ```
 function solve(arr){
@@ -294,6 +302,7 @@ function solve(arr){
   return array;
 }
 ```
+
 
 [Squares sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/javascript)
 ```
