@@ -144,6 +144,14 @@ function validBraces(braces) {
 
 [Series of integers from m to n](https://www.codewars.com/kata/5841f680c5c9b092950001ae/train/javascript)
 ```
+function generateIntegers(m, n) {
+  let newArr = []
+  for(let i = m; i <= n;i++){
+    newArr.push(i)
+  }
+  return newArr
+}
+
 
 
 [The Skiponacci Sequence](https://www.codewars.com/kata/580777ee2e14accd9f000165/train/javascript)
