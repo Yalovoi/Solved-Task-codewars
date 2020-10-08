@@ -383,6 +383,30 @@ function solve(n) {
 
 [Training JS #4: Basic data types--Array](https://www.codewars.com/kata/571effabb625ed9b0600107a/train/javascript)
 ```
+function getLength(arr){
+  //return length of arr
+  return arr.length
+}
+function getFirst(arr){
+  //return the first element of arr
+  return arr[0]
+}
+function getLast(arr){
+  //return the last element of arr
+  return arr[arr.length-1]
+}
+function pushElement(arr){
+  let  el = 1 ;
+  //push el to arr
+  arr.push(el)
+  return arr
+}
+function popElement(arr){
+  //pop an element from arr
+  arr.pop()
+  return arr
+}
+```
 
 
 [Filling an array (part 1)](https://www.codewars.com/kata/571d42206414b103dc0006a1/train/javascript)
