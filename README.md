@@ -381,6 +381,9 @@ function solve(n) {
 [8ky]
 ```
 
+[Training JS #4: Basic data types--Array](https://www.codewars.com/kata/571effabb625ed9b0600107a/train/javascript)
+```
+
 
 [Filling an array (part 1)](https://www.codewars.com/kata/571d42206414b103dc0006a1/train/javascript)
 ```
