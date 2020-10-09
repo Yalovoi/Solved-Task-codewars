@@ -142,6 +142,10 @@ function validBraces(braces) {
 [7ky]
 ```
 
+[What is type of variable?](https://www.codewars.com/kata/57293671c98f77e84b000065/train/javascript)
+```
+
+
 [Series of integers from m to n](https://www.codewars.com/kata/5841f680c5c9b092950001ae/train/javascript)
 ```
 function generateIntegers(m, n) {
