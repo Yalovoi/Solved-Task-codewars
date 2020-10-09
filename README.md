@@ -390,6 +390,12 @@ function solve(n) {
 [8ky]
 ```
 
+
+[Training JS #12: loop statement --for..in and for..of](https://www.codewars.com/kata/5722b3f0bd5583cf44001000/train/javascript)
+```
+
+
+
 [Training JS #4: Basic data types--Array](https://www.codewars.com/kata/571effabb625ed9b0600107a/train/javascript)
 ```
 function getLength(arr){
