@@ -158,7 +158,7 @@ function crap(x, bags, cap){
        }
   return bags >= count ? "Clean" : "Cr@p";
 }
-
+```
 
 
 [What is type of variable?](https://www.codewars.com/kata/57293671c98f77e84b000065/train/javascript)
