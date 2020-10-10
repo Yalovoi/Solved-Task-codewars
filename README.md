@@ -145,6 +145,20 @@ function validBraces(braces) {
 
 [Clean up after your dog](https://www.codewars.com/kata/57faa6ff9610ce181b000028/train/javascript)
 ```
+function crap(x, bags, cap){
+  let count = 0;
+  for (let i = 0; i < x.length; i++) {
+       for (let j = 0; j < x[i].length; j++){
+         if (x[i][j] === 'D') {
+           return 'Dog!!';
+         } else if (x[i][j] === '@') {
+           count ++;
+         }
+       }
+       }
+  return bags >= count ? "Clean" : "Cr@p";
+}
+
 
 
 [What is type of variable?](https://www.codewars.com/kata/57293671c98f77e84b000065/train/javascript)
