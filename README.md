@@ -262,7 +262,6 @@ function addBinary(a,b) {
 }
 
 const addBinary = (a, b) => (a + b).toString(2);
-
 ```
 
 
@@ -434,6 +433,10 @@ function solve(n) {
 ```
 
 [Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)
+```
+function find_difference([a,b,c],[d,e,f]) {
+  return Math.abs(a*b*c-d*e*f)
+}
 ```
 
 
