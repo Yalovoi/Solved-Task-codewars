@@ -143,6 +143,10 @@ function validBraces(braces) {
 ```
 
 
+[Clean up after your dog](https://www.codewars.com/kata/57faa6ff9610ce181b000028/train/javascript)
+```
+
+
 [What is type of variable?](https://www.codewars.com/kata/57293671c98f77e84b000065/train/javascript)
 ```
 function type(value) {
