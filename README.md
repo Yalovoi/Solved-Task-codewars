@@ -433,6 +433,9 @@ function solve(n) {
 [8ky]
 ```
 
+[Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)
+```
+
 
 [Training JS #12: loop statement --for..in and for..of](https://www.codewars.com/kata/5722b3f0bd5583cf44001000/train/javascript)
 ```
