@@ -435,7 +435,15 @@ function solve(n) {
 
 [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript)
 ```
-
+function removeEveryOther(arr){
+ let newArr = []
+ for(let i =0;i < arr.length;i++){
+   if(i % 2 === 0)
+   newArr.push(arr[i])
+ }
+return newArr
+}
+```
 
 
 [Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)
