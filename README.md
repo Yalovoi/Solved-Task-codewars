@@ -432,6 +432,12 @@ function solve(n) {
 [8ky]
 ```
 
+
+[Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript)
+```
+
+
+
 [Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)
 ```
 function find_difference([a,b,c],[d,e,f]) {
