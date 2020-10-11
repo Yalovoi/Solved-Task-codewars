@@ -144,6 +144,21 @@ function validBraces(braces) {
 
 [Array Leaders (Array Series #3)](https://www.codewars.com/kata/5a651865fd56cb55760000e0/train/javascript)
 ```
+var arrayLeaders = numbers => {
+  let arr = [];
+  let sum = 0;
+  for (let i = 0; i < numbers.length; i++) {
+    for (let j = i + 1; j < numbers.length; j++){
+      sum += numbers[j]
+    }
+    if (numbers[i] > sum) {
+      arr.push(numbers[i])
+    }
+    sum = 0;
+  }
+  return arr;
+}
+```
 
 
 [Clean up after your dog](https://www.codewars.com/kata/57faa6ff9610ce181b000028/train/javascript)
