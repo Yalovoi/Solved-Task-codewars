@@ -433,6 +433,10 @@ function solve(n) {
 ```
 
 
+[Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)
+```
+
+
 [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript)
 ```
 function removeEveryOther(arr){
