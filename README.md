@@ -465,6 +465,7 @@ function solve(a, b) {
       : 'Bob made "Jeff" proud!';
   return `${x}, ${y}: ${m}`;
 }
+```
 
 
 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)
