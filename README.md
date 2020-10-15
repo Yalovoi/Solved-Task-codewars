@@ -450,7 +450,8 @@ function solve(n) {
 [8ky]
 ```
 
-[]()
+[Rock Off!](https://www.codewars.com/kata/5b097da6c3323ac067000036/train/javascript)
+```
 
 
 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)
