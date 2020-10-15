@@ -452,6 +452,19 @@ function solve(n) {
 
 [Rock Off!](https://www.codewars.com/kata/5b097da6c3323ac067000036/train/javascript)
 ```
+function solve(a, b) {
+  const [x, y] = a.reduce(
+    (p, a, i) => (a == b[i] ? p : (++p[a > b[i] ? 0 : 1], p)),
+    [0, 0]
+  );
+  const m =
+    x == y
+      ? 'that looks like a "draw"! Rock on!'
+      : x > y
+      ? 'Alice made "Kurt" proud!'
+      : 'Bob made "Jeff" proud!';
+  return `${x}, ${y}: ${m}`;
+}
 
 
 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)
