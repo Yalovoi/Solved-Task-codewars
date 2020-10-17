@@ -4,6 +4,7 @@ JavaScript
 [4ky]
 ```
 
+
 [Twice linear](https://www.codewars.com/kata/twice-linear/train/javascript)
 ```
 function dblLinear(n) {
