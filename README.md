@@ -1,6 +1,7 @@
 # Solved-Tasks-CodeWars
 JavaScript
 ```
+
 [4ky]
 ```
 
