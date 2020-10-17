@@ -48,7 +48,9 @@ function dblLinear(n) {
 ```
 
 
+
 ```
+
 [6ky]
 ```
 
