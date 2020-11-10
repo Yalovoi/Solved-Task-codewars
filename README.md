@@ -153,6 +153,9 @@ function validBraces(braces) {
 ```
 
 
+[](https://www.codewars.com/kata/52a723508a4d96c6c90005ba/train/javascript)
+
+
 [Array Leaders (Array Series #3)](https://www.codewars.com/kata/5a651865fd56cb55760000e0/train/javascript)
 ```
 var arrayLeaders = numbers => {
