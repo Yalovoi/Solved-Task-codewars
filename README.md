@@ -155,6 +155,27 @@ function validBraces(braces) {
 
 [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba/train/javascript)
 ```
+let sing = function() {
+  let lyrics = [];
+  for (let i = 99; i >= 3; i--) {
+    lyrics.push(i + " bottles of beer on the wall, " + i + " bottles of beer.");
+    lyrics.push(
+      "Take one down and pass it around, " +
+        (i - 1) +
+        " bottles of beer on the wall."
+    );
+  }
+  return lyrics.concat([
+    "2 bottles of beer on the wall, 2 bottles of beer.",
+    "Take one down and pass it around, 1 bottle of beer on the wall.",
+    "1 bottle of beer on the wall, 1 bottle of beer.",
+    "Take one down and pass it around, no more bottles of beer on the wall.",
+    "No more bottles of beer on the wall, no more bottles of beer.",
+    "Go to the store and buy some more, 99 bottles of beer on the wall."
+  ]);
+};
+
+
 
 
 [Array Leaders (Array Series #3)](https://www.codewars.com/kata/5a651865fd56cb55760000e0/train/javascript)
