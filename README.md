@@ -174,8 +174,7 @@ let sing = function() {
     "Go to the store and buy some more, 99 bottles of beer on the wall."
   ]);
 };
-
-
+```
 
 
 [Array Leaders (Array Series #3)](https://www.codewars.com/kata/5a651865fd56cb55760000e0/train/javascript)
