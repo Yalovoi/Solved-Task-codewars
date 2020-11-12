@@ -1367,7 +1367,8 @@ function grow(x){
   return x.reduce((a, b) => a * b);
 }
 
-```[Ruby]```
+[Ruby]```
+
 
 def grow(x)
   x.map.reduce(:*)
