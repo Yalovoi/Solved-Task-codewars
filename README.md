@@ -4,9 +4,21 @@ JavaScript
 
 [4ky]
 ```
-
-
 [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21/train/javascript)
+```
+function add(a, b) {
+  var res = "",
+    c = 0;
+  a = a.split("");
+  b = b.split("");
+  while (a.length || b.length || c) {
+    c += ~~a.pop() + ~~b.pop();
+    res = (c % 10) + res;
+    c = c > 9;
+  }
+  return res;
+}
+```
 
 [Twice linear](https://www.codewars.com/kata/twice-linear/train/javascript)
 ```
