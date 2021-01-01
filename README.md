@@ -1088,7 +1088,7 @@ class Solution{
 ```
 
 [Watermelon](https://www.codewars.com/kata/55192f4ecd82ff826900089e/train/javascript)
-```javascript
+```
 function divide(weight){
   return weight <= 2 ? false : weight % 2 === 0;
 }
