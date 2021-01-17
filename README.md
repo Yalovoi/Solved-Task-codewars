@@ -1480,7 +1480,7 @@ function arrayPlusArray(arr1, arr2) {
 ```
 
 [Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/javascript)
-```javascript
+```java
 function paperwork(n, m) {
   return n + m <= 0 ? 0 : n * m;
 }
