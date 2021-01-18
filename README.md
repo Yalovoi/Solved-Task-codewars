@@ -145,6 +145,9 @@ function dblLinear(n) {
 ```
 
 
+```
+[5ky]
+```
 
 ```
 [6ky]
