@@ -1470,12 +1470,13 @@ function squareArea(A){
 ```
 
 [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d/train/javascript)
-```
+```java
 function apple(x){
 if(x**2>1000){return'It\'s hotter than the sun!!';
   }else{return 'Help yourself to a honeycomb Yorkie for the glovebox.';
        }
 }
+
 ```
 
 [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)
