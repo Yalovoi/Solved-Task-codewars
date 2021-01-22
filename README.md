@@ -167,6 +167,7 @@ function isPrime(n) {
   }
   return n !== 1;
 }
+
 ```
 [6ky]
 ```
