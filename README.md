@@ -100,6 +100,7 @@ const test = (n, xs) =>
 
 const isInteresting = (n, xs) =>
   test(n, xs) ? 2 : +(test(n + 1, xs) || test(n + 2, xs));
+  
   ```
 
 
