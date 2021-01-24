@@ -172,6 +172,11 @@ function isPrime(n) {
 
 
 [A Chain adding function](https://www.codewars.com/kata/539a0e4d85e3425cb0000a88/solutions/javascript)
+var add = function(n) {
+  const f = x => add(n + x);
+  f.valueOf = () => n;
+  return f;
+}
 
 ```
 [6ky]
