@@ -389,6 +389,7 @@ let fib = [1,1];
   }
  return  fib.map((el,i) => i % 2 !== 0?'skip':el).join(' ')                 
 }
+
 ```
 
 
