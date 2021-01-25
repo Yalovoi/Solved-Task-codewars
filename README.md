@@ -572,6 +572,7 @@ for (let i = 0; i <= cc.length-1; i++) {
 function isVeryEvenNumber(n) {
   return !n-- || n % 9 % 2 === 1;
 }
+
 ```
 
 [Double Sort](https://www.codewars.com/kata/57cc79ec484cf991c900018d/train/javascript)
