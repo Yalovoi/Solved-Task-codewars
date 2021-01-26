@@ -924,11 +924,12 @@ function toTime(s) {
   ```
 
 [Price of Mangoes](https://www.codewars.com/kata/57a77726bb9944d000000b06/train/javascript)
-```
+```JAVASCRIPT
 function mango(quantity, price){
 let a = Math.floor(quantity / 3)
 return (quantity - a) * price
 }
+
 ```
 
 [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/javascript)
