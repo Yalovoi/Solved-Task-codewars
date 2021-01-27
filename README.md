@@ -152,6 +152,7 @@ function dblLinear(n) {
 [5ky]
 ```
 [Prime Time](https://www.codewars.com/kata/521ef596c106a935c0000519/train/javascript)
+```
 function prime(num) {
   let primes = [];
   let i = 1;
