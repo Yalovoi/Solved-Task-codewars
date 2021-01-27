@@ -200,7 +200,7 @@ if(v1 >= v2)
 
 
 [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/javascript)
-```
+```javascript
 function cleanString(s) {
   let arr = []
   for (let el of s) {
