@@ -735,7 +735,7 @@ function arr (N){
 
 
 [Parse float](https://www.codewars.com/kata/57a386117cb1f31890000039/train/javascript)
-```
+```javascript
 function parseF(s) {
   if(s == parseFloat(s)){
     return Number.parseFloat(s)
