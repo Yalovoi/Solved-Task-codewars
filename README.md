@@ -80,7 +80,7 @@ class User {
 
 
 [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/javascript)
-```
+```javascript
 const chars = n => n.toString().split("");
 const match = s => n => new RegExp(n).test(s);
 
