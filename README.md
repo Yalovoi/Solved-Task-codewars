@@ -598,7 +598,7 @@ function dbSort(a){
 ```
 
 [ATM](https://www.codewars.com/kata/5635e7cb49adc7b54500001c/train/javascript)
-```
+```javascript
 function solve(n) {
    if (n % 10 !== 0 ) return -1;
   let count = 0;
