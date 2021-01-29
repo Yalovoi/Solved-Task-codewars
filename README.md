@@ -571,7 +571,7 @@ for (let i = 0; i <= cc.length-1; i++) {
 ```
 
 ["Very Even" Numbers.](https://www.codewars.com/kata/58c9322bedb4235468000019/train/javascript)
-```
+```javascript
 function isVeryEvenNumber(n) {
   return !n-- || n % 9 % 2 === 1;
 }
