@@ -888,6 +888,7 @@ function remove(s){
 function remove(s){
   return s.slice(0, s[s.length-1] === "!" ? s.length-1 : s.length);
 }
+
 ```
 
 [Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript)
