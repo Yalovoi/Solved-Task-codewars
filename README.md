@@ -1013,7 +1013,7 @@ return Math.cbrt(volume / n) % 1 === 0 && Math.cbrt(n) % 1 === 0 ? true : false;
   ```
   
 [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db/train/javascript)
-```
+```JAVASCRIPT
 function index(array, n){
    if (array[n] == undefined) { 
     return -1;
