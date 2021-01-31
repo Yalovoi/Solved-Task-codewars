@@ -532,7 +532,7 @@ function solve(arr){
 
 
 [Squares sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/javascript)
-```
+```javascript
 function squares(x, n) {
 let arr = []
 for(let i = 0; i < n;i++){
@@ -541,6 +541,7 @@ for(let i = 0; i < n;i++){
 }
 return arr
 }
+
 ```
 
 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/solutions/javascript)
