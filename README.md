@@ -230,7 +230,7 @@ let uniqueInOrder=function(iterable){
 
 
 [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
-```
+```JAVASCRIPT
 function arrayDiff(a, b) {
    if (a.length === 0) {
     return [];
