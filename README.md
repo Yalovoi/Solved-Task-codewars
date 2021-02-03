@@ -908,7 +908,7 @@ return bonus===true?"£"+ salary*10:"£"+ salary
 ```
 
 [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript)
-```
+```javascript
 function countBy(x, n) {
   let z = [];
   while (z.length < n) {
