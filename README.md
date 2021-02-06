@@ -557,7 +557,7 @@ let a = (num + '').split('');
 ```
 
 [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)
-```
+```javascript
 function maskify(cc) {
 let maskCard = '';
 for (let i = 0; i <= cc.length-1; i++) {
