@@ -382,7 +382,7 @@ function generateIntegers(m, n) {
 
 
 [The Skiponacci Sequence](https://www.codewars.com/kata/580777ee2e14accd9f000165/train/javascript)
-```
+```javascript
 function skiponacci(n) {
   if(n === 1)return '1'
 let fib = [1,1];
