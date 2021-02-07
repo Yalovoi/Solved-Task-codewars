@@ -284,7 +284,7 @@ function validBraces(braces) {
 
 
 [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba/train/javascript)
-```
+```javascript
 let sing = function() {
   let lyrics = [];
   for (let i = 99; i >= 3; i--) {
