@@ -545,7 +545,7 @@ return arr
 ```
 
 [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/solutions/javascript)
-```
+```javascript
 function squareDigits(num) {
 let a = (num + '').split('');
   let res1 = [];
