@@ -346,7 +346,7 @@ function crap(x, bags, cap){
 
 
 [What is type of variable?](https://www.codewars.com/kata/57293671c98f77e84b000065/train/javascript)
-```
+```javascript
 function type(value) {
   switch({}.toString.call(value)){
     case "[object Number]":
