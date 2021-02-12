@@ -664,7 +664,7 @@ return newArr
 
 
 [Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)
-```
+```javascript
 function find_difference([a,b,c],[d,e,f]) {
   return Math.abs(a*b*c-d*e*f)
 }
