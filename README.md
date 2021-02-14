@@ -672,7 +672,7 @@ function find_difference([a,b,c],[d,e,f]) {
 
 
 [Training JS #12: loop statement --for..in and for..of](https://www.codewars.com/kata/5722b3f0bd5583cf44001000/train/javascript)
-```
+```javascript
 function giveMeFive(obj) {
   let five = [];
   for (let key in obj) {
