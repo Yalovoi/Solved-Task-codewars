@@ -475,7 +475,7 @@ function twoDecimalPlaces(number) {
 
 
 [Array Mash](https://www.codewars.com/kata/582642b1083e12521f0000da/train/javascript)
-```
+```javascript
 function arrayMash (array1, array2) {
 let newArr = []
 for(let i = 0;i < array1.length;i++){
