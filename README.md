@@ -976,7 +976,7 @@ function checkExam(array1, array2) {
 ```
 
 [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)
-```
+```javascript
 function century(year) {
  return Math.floor(year/100) + (year % 100 === 0 ? 0 : 1);
 }
