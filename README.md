@@ -823,7 +823,7 @@ for(let i = 0;i < array1.length;i++){
 ```
 
 [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/solutions/javascript)
-```
+```javascript
 let min = function(list){
     return Math.min(...list);
 }
