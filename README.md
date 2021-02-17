@@ -1221,7 +1221,7 @@ function between(a, b) {
 ```
 
 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)
-```
+```javascript
 function well(x){
   const good = x.filter( x => x === "good").length;
   if (good === 0) { 
