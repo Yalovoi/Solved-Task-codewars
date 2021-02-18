@@ -284,6 +284,18 @@ function validBraces(braces) {
 
 
 [Simple consecutive pairs]{https://www.codewars.com/kata/5a3e1319b6486ac96f000049/train/javascript}
+```
+function pairs(ar) {
+  const arr1 = [];
+  for (let i = 0; i < ar.length; i += 2) {
+    if (ar[i] + 1 === ar[i + 1] || ar[i] === ar[i + 1] + 1) {
+      arr1.push([ar[i], ar[i + 1]]);
+    }
+  }
+  return arr1.length;
+}
+```
+
 
 [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba/train/javascript)
 ```javascript
