@@ -283,6 +283,8 @@ function validBraces(braces) {
 ```
 
 
+[Simple consecutive pairs]{https://www.codewars.com/kata/5a3e1319b6486ac96f000049/train/javascript}
+
 [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba/train/javascript)
 ```javascript
 let sing = function() {
