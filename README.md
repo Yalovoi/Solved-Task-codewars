@@ -341,7 +341,7 @@ var arrayLeaders = numbers => {
 
 
 [Clean up after your dog](https://www.codewars.com/kata/57faa6ff9610ce181b000028/train/javascript)
-```
+```javascript
 function crap(x, bags, cap){
   let count = 0;
   for (let i = 0; i < x.length; i++) {
