@@ -1247,7 +1247,7 @@ function well(x){
 ```
 
 [Training JS #7: if..else and ternary operator](https://www.codewars.com/kata/57202aefe8d6c514300001fd/train/javascript)
-```
+```javascript
 function saleHotdogs(n){
   if(n<5){return n*  100}
   if(n>=5&&n<10){return n * 95}
