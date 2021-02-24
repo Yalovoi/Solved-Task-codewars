@@ -5,7 +5,7 @@ JavaScript
 [4ky]
 ```
 [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21/train/javascript)
-```
+```javascript
 /*
 Description:
 We need to sum big numbers and we require your help.
