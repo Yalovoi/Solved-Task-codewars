@@ -534,7 +534,7 @@ function absentVowel(x){
 
 
 [Dominant array elements](https://www.codewars.com/kata/5a04133e32b8b998dc000089/train/javascript)
-```
+```javascript
 function solve(arr){
   let array = [arr[arr.length - 1]];
   for (let i = arr.length - 2; i >= 0; i--){
