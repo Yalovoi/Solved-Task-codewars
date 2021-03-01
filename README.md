@@ -437,7 +437,7 @@ return Array.from({ length: max }, (_, index) => {
 
 
 [80's Kids #2: Help ALF Find His Spaceship](https://www.codewars.com/kata/5660aa3d5e011dfd6e000063/train/javascript)
-```
+```javascript
 const findSpaceship = (map = '') => {
   if (!map.includes('X')) return 'Spaceship lost forever.'
 
