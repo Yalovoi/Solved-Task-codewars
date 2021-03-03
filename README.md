@@ -977,7 +977,7 @@ function numberToString(num) {
 ```
 
 [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/javascript)
-```
+```javascript
 function checkExam(array1, array2) {
  let sum = 0;
  for (let i = 0; i < array1.length; i++) {
