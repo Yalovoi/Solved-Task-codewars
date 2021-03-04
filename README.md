@@ -812,7 +812,7 @@ function correctTail(bod, tail) {
 ```
 
 [Pre-FizzBuzz Workout #1](https://www.codewars.com/kata/569e09850a8e371ab200000b/train/javascript)
-```
+```javascript
 function preFizz(n) {
   let arr = []
   for(let i = 1;i <= n;i++){
