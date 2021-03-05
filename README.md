@@ -322,7 +322,7 @@ let sing = function() {
 
 
 [Array Leaders (Array Series #3)](https://www.codewars.com/kata/5a651865fd56cb55760000e0/train/javascript)
-```
+```javascript
 var arrayLeaders = numbers => {
   let arr = [];
   let sum = 0;
