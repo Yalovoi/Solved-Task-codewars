@@ -284,7 +284,7 @@ function validBraces(braces) {
 
 
 [Simple consecutive pairs]{https://www.codewars.com/kata/5a3e1319b6486ac96f000049/train/javascript}
-```
+```javascript
 function pairs(ar) {
   const arr1 = [];
   for (let i = 0; i < ar.length; i += 2) {
