@@ -465,7 +465,7 @@ const addBinary = (a, b) => (a + b).toString(2);
 
 
 [Minimum to multiple](https://www.codewars.com/kata/5e030f77cec18900322c535d/train/javascript)
-```
+```javascript
 function minimum(a, x) {
   return Math.min(a % x, x - a % x)
 }
