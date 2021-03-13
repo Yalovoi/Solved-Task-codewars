@@ -880,7 +880,7 @@ function expressionMatter(a, b, c){
 ```
 
 [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/train/javascript)
-```
+```javascript
 function replace(s){
   const array = s.split("");
   for (let i = 0; i < array.length; i++){
