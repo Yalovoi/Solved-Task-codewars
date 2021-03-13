@@ -855,7 +855,7 @@ return[1, -x1-x2, x1*x2]
 ```
 
 [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)
-```
+```javascript
 let min = function(list){
     return Math.min(...list);
 }
