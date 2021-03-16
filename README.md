@@ -1057,7 +1057,7 @@ function multiply(a, b){
 ```
 
 [101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/56f6919a6b88de18ff000b36/train/javascript)
-```
+```javascript
 function howManyDalmatians(number){
   
   let dogs = ["Hardly any", "More than a handful!", "Woah that's a lot of dogs!", "101 DALMATIANS!!!"]
