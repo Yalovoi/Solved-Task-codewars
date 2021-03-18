@@ -1279,7 +1279,7 @@ function sakuraFall(v) {
 ```
 
 [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c/train/javascript)
-```
+```javascript
 function getSize(width, height, depth) {
  const volume = width * height * depth;
  const area = 2 * (width * height + height * depth + width * depth);
