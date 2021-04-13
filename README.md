@@ -1464,7 +1464,7 @@ function isPalindrome(x) {
 ```
 
 [BASIC: Making Six Toast.](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8/train/javascript)
-```
+```javascript
 function sixToast(num) {
   return Math.abs(num - 6)
 }
