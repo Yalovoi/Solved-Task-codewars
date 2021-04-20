@@ -1429,7 +1429,7 @@ function findNeedle(haystack) {
   ```
 
 [A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/javascript)
-```JAVASCRIPT
+```javascript
 function warnTheSheep(queue) {
   const sheep = queue.length - (queue.indexOf('wolf') + 1);
   const first = queue[queue.length - 1];
