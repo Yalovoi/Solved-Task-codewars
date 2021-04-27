@@ -942,7 +942,7 @@ function toTime(s) {
   ```
 
 [Price of Mangoes](https://www.codewars.com/kata/57a77726bb9944d000000b06/train/javascript)
-```JAVASCRIPT
+```javascript
 function mango(quantity, price){
 let a = Math.floor(quantity / 3)
 return (quantity - a) * price
