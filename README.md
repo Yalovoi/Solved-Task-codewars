@@ -634,7 +634,7 @@ function solve(n) {
 ```
 
 [Rock Off!](https://www.codewars.com/kata/5b097da6c3323ac067000036/train/javascript)
-```JAVASCRIPT
+```
 function solve(a, b) {
   const [x, y] = a.reduce(
     (p, a, i) => (a == b[i] ? p : (++p[a > b[i] ? 0 : 1], p)),
