@@ -1295,7 +1295,7 @@ function even_or_odd(number) {
  ```
 
 [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
-```
+```javascript
 function positiveSum(arr) {
   let total = 0;    
   for (i = 0; i < arr.length; i++) {    // setup loop to go through array of given length
