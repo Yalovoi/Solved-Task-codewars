@@ -1556,14 +1556,16 @@ function cockroachSpeed(s) {
 }
 ```
 
-
 [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1/solutions/javascript)
 ```
 const strCount = (str, letter) =>
   [...str].reduce((total, char) => (char === letter ? total + 1 : total), 0)
 ```
 
-
+[Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007/train/javascript)
+```
+const solution = (a, b) => (a.length < b.length ? a + b + a : b + a + b)
+```
 
 
 
