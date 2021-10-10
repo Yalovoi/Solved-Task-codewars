@@ -1557,8 +1557,9 @@ function cockroachSpeed(s) {
 ```
 
 
-
-
+[]
+```
+const stringCount = (string, letter) => string.split(letter).length - 1
 
 
 
